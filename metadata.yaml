@@ -1,11 +1,16 @@
 _repo: Michelangelo_69303
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69303-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Strutt, Edward C.
     gutenberg_agent_id: '55206'
     url: http://www.gutenberg.org/2009/agents/55206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69303#Michelangelo
 gutenberg_issued: '2022-11-07'
 identifiers:
   gutenberg: '69303'
